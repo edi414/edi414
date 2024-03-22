@@ -13,7 +13,7 @@
 
 - 📄 Segui aqui meu linkedin para mais contato [https://www.linkedin.com/in/edivaldo-bezerra/](https://www.linkedin.com/in/edivaldo-bezerra/)
 
-- ⚡ Sou apaixonado por: **Poesia Acústica**
+- ⚡ Sou apaixonado por: **Loki, Freya e Odin (meus cachorros)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
