@@ -1,7 +1,7 @@
 <h1 align="center">Prazer 👋, meu nome é Edivaldo Bezerra</h1>
 <h3 align="center">Economista pela Universidade Federal de Pernambuco</h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento web [**MarketHub**](link do repositório)
+- 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento web [**MarketHub**](https://www.linkedin.com/in/edivaldo-bezerra/)
 
 - 🌱 Aprendendo sobre **Machine learning e Automação Desktop e Web**
 
