@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **edivaldo414@gmail.com**
 
-- 📄 Segui aqui meu linkedin para mais contato [https://www.linkedin.com/in/edivaldo-bezerra/](https://www.linkedin.com/in/edivaldo-bezerra/)
+- 📄 Segue aqui meu linkedin para mais contato [https://www.linkedin.com/in/edivaldo-bezerra/](https://www.linkedin.com/in/edivaldo-bezerra/)
 
 - ⚡ Sou apaixonado por: **Loki, Freya e Odin (meus cachorros)**
 
