@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo sobre **Machine learning e Automação Desktop e Web**
 
-- 👯 Estou trabalhando na Rappi Company [Rappi Company](https://www.rappi.com.br/)
+- 👯 Estou trabalhando na [Rappi Company](https://www.rappi.com.br/)
 
 - 💬 Me pergunte sobre **Python, SQL, Data Studio, Power BI e API**
 
