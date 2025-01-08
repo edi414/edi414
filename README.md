@@ -1,11 +1,9 @@
 <h1 align="center">Prazer 👋, meu nome é Edivaldo Bezerra</h1>
-<h3 align="center">Economista pela Universidade Federal de Pernambuco</h3>
+<h3 align="center">Economista pela Universidade Federal de Pernambuco e Cientista de Dados pela PUC RJ</h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento web para um Supermercado: [**MarketHub**](https://github.com/edi414/MarketHub)
+- 🌱 Aprendendo sobre LLMs, Machine Learning, Automação Desktop e Web, com aplicação prática em clusterização e análise de dados textuais usando LLMs e técnicas de NLP.
 
-- 🌱 Aprendendo sobre **Machine learning e Automação Desktop e Web**
-
-- 👯 Estou trabalhando na [Rappi Company](https://www.rappi.com.br/)
+- 👯 Estou trabalhando na [ACASO](https://aca.so/#).
 
 - 💬 Me pergunte sobre **Python, SQL, Data Studio, Power BI e API**
 
