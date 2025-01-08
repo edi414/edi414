@@ -1,7 +1,7 @@
 <h1 align="center">Prazer 👋, meu nome é Edivaldo Bezerra</h1>
 <h3 align="center">Economista pela Universidade Federal de Pernambuco e Cientista de Dados pela PUC RJ</h3>
 
-- 🌱 Aprendendo sobre LLMs, Machine Learning, Automação Desktop e Web, com aplicação prática em clusterização e análise de dados textuais usando LLMs e técnicas de NLP.
+- 🔭 Trabalhando em projetos que usam LLMs, Machine Learning, Automação Desktop e Web, com aplicação prática em clusterização e análise de dados textuais usando LLMs e técnicas de NLP.
 
 - 👯 Estou trabalhando na [ACASO](https://aca.so/#).
 
