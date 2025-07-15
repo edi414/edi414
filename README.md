@@ -1,11 +1,11 @@
 <h1 align="center">Prazer 👋, meu nome é Edivaldo Bezerra</h1>
 <h3 align="center">Economista pela Universidade Federal de Pernambuco e Cientista de Dados pela PUC RJ</h3>
 
-- 🔭 Trabalhando em projetos que usam LLMs, Machine Learning, Automação Desktop e Web, com aplicação prática em clusterização e análise de dados textuais usando LLMs e técnicas de NLP.
+- 🔭 Atualmente lidero projetos utilizando LLMs, NLP, Machine Learning e Automação, desenvolvendo soluções avançadas para clusterização, sumarização e análise semântica de dados.
 
-- 👯 Estou trabalhando na [ACASO](https://aca.so/#).
+- 👯 Atuo como Data Scientist Tech Lead na ACASO, com foco em modelagem preditiva, generativa, criação de agentes e soluções cloud-based. [ACASO](https://aca.so/#).
 
-- 💬 Me pergunte sobre **Python, SQL, Data Studio, Power BI e API**
+- 💬 Fique à vontade para conversar comigo sobre: **Machine Learning, NLP, Python, SQL, PostgreSQL, AWS, Airflow, APIs e automação web/desktop**
 
 - 📫 Você me acha através do e-mail **edivaldo414@gmail.com**
 
